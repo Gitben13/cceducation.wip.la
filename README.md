@@ -6,3 +6,5 @@ Dont visit yet it is under progress
 
 
 This is website for education and school.
+
+Contains bookmarklets proxies games and more!
